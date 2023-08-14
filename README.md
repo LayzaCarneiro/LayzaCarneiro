@@ -1,6 +1,6 @@
-## Hi, I'm Layza!
+## Hi, I'm Layza! <img src="https://media.giphy.com/media/tn3Ej47sHXpgaxn3FZ/giphy.gif" width="50">
 
-**I am a computer science student at [UECE](https://www.uece.br/) and also a researcher at [@GESAD](https://www.instagram.com/gesad.uece/)!**
+**I am a computer science student at [UECE](https://www.uece.br/) and also a researcher at [@GESAD](https://www.instagram.com/gesad.uece/)!** 
 
 I am currently exploring the use of AI in Software Engineering (AI4SE), for this I've worked with **Python, Django, SQLite** and **Natural Language Processing (NLP)**. 
 
