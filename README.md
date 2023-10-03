@@ -4,7 +4,7 @@
 
 I am currently exploring the use of AI in Software Engineering (AI4SE), for this I've worked with **Python, Django, SQLite** and **Natural Language Processing (NLP)**. 
 
-In addition, I'm a volunteer in the UECE competitive marathon study group (**GEMP**), member of [Code Girls](https://www.instagram.com/codegirlsuece/), passionate about bodybuilding and mother of 8 cats.
+In addition, I'm a volunteer in the UECE competitive marathon study group (**GEMP**), member of [@CodeGirls](https://www.instagram.com/codegirlsuece/), passionate about bodybuilding and mother of 8 cats.
 
 If you want to know more about me --> https://linktr.ee/layzacarneiro
     
