@@ -1,5 +1,4 @@
-## Hi, I'm Layza!  
-<img src="https://media.giphy.com/media/bg283WKwSbH3i/giphy.gif" width="65">
+## Hi, I'm Layza! 👩‍💻
 
 **I am a computer science student at [UECE](https://www.uece.br/) and also a researcher at [@GESAD](https://www.instagram.com/gesad.uece/)!** 
 
