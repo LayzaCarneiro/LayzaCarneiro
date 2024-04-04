@@ -1,10 +1,10 @@
 ## Hi, I'm Layza! 👩‍💻
 
-**I am a computer science student at [UECE](https://www.uece.br/) and also a researcher at [@GESAD](https://www.instagram.com/gesad.uece/)!** 
+**I am a computer science student at [UECE](https://www.uece.br/), iOS Developer at [Apple Developer Academy - IFCE](https://www.developeracademy.ifce.edu.br/) and a C++ developer at [@GESAD](https://www.instagram.com/gesad.uece/)!** 
 
 I am currently exploring the use of AI in Software Engineering (AI4SE), for this I've worked with **Python, Django, SQLite** and **Natural Language Processing (NLP)**. 
 
-In addition, I'm a volunteer in the UECE competitive marathon study group (**GEMP**), member of [@CodeGirls](https://www.instagram.com/codegirlsuece/), passionate about bodybuilding and mother of 8 cats.
+In addition, I'm a volunteer in the UECE competitive marathon study group (**GEMP**), passionate about bodybuilding and mother of 8 cats.
 
 If you want to know more about me --> https://linktr.ee/layzacarneiro
     
