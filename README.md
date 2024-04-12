@@ -2,7 +2,7 @@
 
 **I am a computer science student at [UECE](https://www.uece.br/), iOS Developer at [Apple Developer Academy - IFCE](https://www.developeracademy.ifce.edu.br/) and a C++ developer at [@GESAD](https://www.instagram.com/gesad.uece/)!** 
 
-I'm a volunteer in the UECE competitive marathon study group (**GEMP**), passionate about coding, learning with others and always in love with my 8 cats.
+I'm a volunteer in the UECE competitive marathon study group (**GEMP**), passionate about coding, I love learning from other people (specially about things I've never seen) and always in love with my 8 cats.
 
 If you want to know more about me --> https://linktr.ee/layzacarneiro
     
