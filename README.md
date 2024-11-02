@@ -1,8 +1,8 @@
-## Hi, I'm Layza! 👩‍💻
+## Hi, I'm Layza! 😁
 
 **I am a computer science student at [UECE](https://www.uece.br/), iOS Developer at [Apple Developer Academy - IFCE](https://www.developeracademy.ifce.edu.br/) and a member at [GESAD](https://gesaduece.com.br)!** 
 
-I'm a volunteer in the UECE competitive marathon study group [(**GEMP**)](https://linktr.ee/gemp_uece_?fbclid=PAZXh0bgNhZW0CMTEAAaYM2S1vqh0jCoFIdyW2sxp_HSvbdvborXEAcJ3g9Ib96PiNDJ8TxJ17LiY_aem_2tTLTCSF479s8A3GZgqaxw), passionate about coding, I love learning from other people (specially about things I've never seen) and somebody that looooves cats.
+I'm a volunteer in the UECE competitive marathon study group [(**GEMP**)](https://linktr.ee/gemp_uece_?fbclid=PAZXh0bgNhZW0CMTEAAaYM2S1vqh0jCoFIdyW2sxp_HSvbdvborXEAcJ3g9Ib96PiNDJ8TxJ17LiY_aem_2tTLTCSF479s8A3GZgqaxw), I am passionate about coding, I love learning from other people (specially about things I've never seen) and somebody that looooves cats.
 
 If you want to know more about me --> https://linktr.ee/layzacarneiro
     
