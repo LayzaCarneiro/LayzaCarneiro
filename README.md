@@ -4,7 +4,7 @@
 
 I'm a volunteer in the UECE competitive marathon study group [(**GEMP**)](https://linktr.ee/gemp_uece_?fbclid=PAZXh0bgNhZW0CMTEAAaYM2S1vqh0jCoFIdyW2sxp_HSvbdvborXEAcJ3g9Ib96PiNDJ8TxJ17LiY_aem_2tTLTCSF479s8A3GZgqaxw), I am passionate about coding, I love learning from other people (specially about things I've never seen) and somebody that looooves cats.
 
-If you (🫵) want to contact me :
+If you (🫵) want to get in touch with me :
 
 <a href="https://www.linkedin.com/in/layzacarneiro/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     
