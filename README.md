@@ -19,5 +19,4 @@ If you (🫵) want to get in touch with me:
   <a href="https://neps.academy/br/user/19499" target="_blank"><img src="https://img.shields.io/badge/Neps-f0361c?style=for-the-badge&logo=netcup&logoColor=white" target="_blank"></a>
 </div>
 
-  
-
+![](https://nirzak-streak-stats.vercel.app/?user=LayzaCarneiro&theme=light&hide_border=false)
