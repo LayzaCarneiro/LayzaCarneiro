@@ -22,7 +22,7 @@ I'm a volunteer in the UECE competitive programming study group [(**GEMP**)](htt
 
 ---
 
-## **iOS & Swift Projects**
+## **Featured Projects**
 
 > Here are some of the apps, experiments, and prototypes I've been working on.
 
@@ -30,11 +30,11 @@ I'm a volunteer in the UECE competitive programming study group [(**GEMP**)](htt
 
 | Project                                                            | Description                                                           | Technologies                                                                         |
 | ------------------------------------------------------------------ | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| **[CatchIt](https://apps.apple.com/br/app/catch-it/id6504718179)** | iOS app that identifies animals instantly using on-device ML and helps users organize their wildlife observations | SwiftUI • MVVM • CreateML • Accessibility • SwiftData • AI |
+| **[CatchIt](https://apps.apple.com/br/app/catch-it/id6504718179)** | iOS app that identifies animals instantly using on-device ML and helps users organize their wildlife observations | SwiftUI • MVVM • AI • CreateML • Accessibility • SwiftData |
 | **[Altroo](https://apps.apple.com/br/app/altroo/id6754249731) • [Source Code](https://github.com/izamontenegro/Altroo)** | App for professional caregivers to organize and share care activities | UIKit • CoreData • CloudKit • SwiftUI • Combine • MVVM-C • Factory • Facade • XCTest |
+| **[DoME](https://github.com/LayzaCarneiro/dome_gesad)** | NLP-powered assistant for data extraction | Python • Django • Transformers • NLP • SQLite |
 | **[Weather App](https://github.com/LayzaCarneiro/WeatherApp)** | Weather forecast app consuming a public API | UIKit • API • Cocoapods |
-| **[Into The Cauldron](https://apps.apple.com/br/app/into-the-cauldron/id6745516421)** | A potion-crafting mini-game where you blend ingredients, handle quirky customers, and refine your recipes as a strange mystery gradually unfolds | SwiftUI • SpriteKit |
-| **[Witch Game - A VisionPro Game](https://github.com/LayzaCarneiro/WitchGame_VisionOS)** | Prototype built for Apple Vision Pro, combining 3D interactions, spatial design, and gesture-based mechanics| SwiftUI • RealityKit • 3D Models |
+| **[Witch Game](https://github.com/LayzaCarneiro/WitchGame_VisionOS)** | Prototype built for Apple Vision Pro, combining 3D interactions, spatial design, and gesture-based mechanics| SwiftUI • RealityKit • 3D Models |
 
 </div>
 
@@ -48,10 +48,10 @@ I'm a volunteer in the UECE competitive programming study group [(**GEMP**)](htt
 
 | Project                         | Description                               | Technologies                                  |
 | ------------------------------- | ----------------------------------------- | --------------------------------------------- |
-| **[LTracer](https://github.com/LayzaCarneiro/SyscallLogger)** | System call logger for Linux  | C++ • CMake |
+| **[Into The Cauldron](https://apps.apple.com/br/app/into-the-cauldron/id6745516421)** | A potion-crafting mini-game | SwiftUI • SpriteKit |
+| **[LTracer](https://github.com/LayzaCarneiro/SyscallLogger)** | System call logger for Linux  | C++ • CMake • Linux |
 | **[Supermarket Graphical Interface](https://github.com/LayzaCarneiro/POO-GraphicalInterface)** | Java GUI app with database integration | Java • MySQL • NetBeans • OOP |
-| **[DoME](https://github.com/LayzaCarneiro/dome_gesad)** | NLP-powered assistant for data extraction | Python • Django • Transformers • NLP • SQLite |
-| **[ARIMA Prediction](https://github.com/LayzaCarneiro/ARIMA_Prediction)** | Time-series forecasting API | Python • FastAPI • SwiftUI |
+| **[ARIMA Prediction](https://github.com/LayzaCarneiro/ARIMA_Prediction)** | Time-series forecasting API | Python • FastAPI • SwiftUI • ML |
 | **[Altroo Landing Page](https://github.com/LayzaCarneiro/altroo-landing)** | Landing page for Altroo | Lovable • TypeScript • Vercel |
 
 </div>
