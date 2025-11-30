@@ -1,8 +1,9 @@
 ## Hi, I'm Layza! 😄
 
+
 **I am a computer science student at [UECE](https://www.uece.br/), an iOS Developer at the [Apple Developer Academy - IFCE](https://www.developeracademy.ifce.edu.br/) and a member of [GESAD](https://gesaduece.com.br)!** 
 
-I'm a volunteer in the UECE competitive marathon study group [(**GEMP**)](https://linktr.ee/gemp_uece_?fbclid=PAZXh0bgNhZW0CMTEAAaYM2S1vqh0jCoFIdyW2sxp_HSvbdvborXEAcJ3g9Ib96PiNDJ8TxJ17LiY_aem_2tTLTCSF479s8A3GZgqaxw), I am passionate about coding, I love learning from other people (specially about things I've never seen) and somebody that loves cats.
+I'm a volunteer in the UECE competitive programming study group [(**GEMP**)](https://linktr.ee/gemp_uece_?fbclid=PAZXh0bgNhZW0CMTEAAaYM2S1vqh0jCoFIdyW2sxp_HSvbdvborXEAcJ3g9Ib96PiNDJ8TxJ17LiY_aem_2tTLTCSF479s8A3GZgqaxw), I'm passionate about coding, I love learning from other people (specially about things I've never seen before) and I'm also somebody who really loves cats.
 
 **Want to build something together? You (🫵) can reach me here:**
 
@@ -10,7 +11,7 @@ I'm a volunteer in the UECE competitive marathon study group [(**GEMP**)](https:
 
 ---
 
-## 🏆 **Competitive Programming Profiles**
+## **Competitive Programming Profiles**
 
 <div>
 
@@ -18,30 +19,41 @@ I'm a volunteer in the UECE competitive marathon study group [(**GEMP**)](https:
 
 </div>
 
-<div>
-    
-![](https://nirzak-streak-stats.vercel.app/?user=LayzaCarneiro\&theme=light\&hide_border=false)
-
-</div>
-
 ---
 
-
-
-# 🍏 **iOS Development Portfolio**
+## **iOS & Swift Projects**
 
 > Here are some of the apps, experiments, and prototypes I've been working on.
 > *(Click any card to explore the repo.)*
 
-### **🌟 Featured Projects**
+<div>
 
-<div align="center">
-
-| Project                                                                                       | Description                                       | Tecnologies and Frameworks                 |
-| --------------------------------------------------------------------------------------------- | ------------------------------------------------- | -------------------- |
-| <a href="#"><img src="https://via.placeholder.com/120" width="120"/></a> <br> **CatchIt**     | iOS App to track animals             | SwiftUI • MVVM • CreateML • Dynamic Type • VoiceOver • SwiftData      |
-| <a href="#"><img src="https://via.placeholder.com/120" width="120"/></a> <br> **Altroo**      | Application designed for professional caregivers, built to efficiently organize and share care activities.  | UIKit • CoreData • CloudKit • SwiftUI • Combine • XCTest • MVVM-C • Factory • Facade • CI |
+| Project                                                                                           | Description                                 | Technologies                               |
+| ------------------------------------------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------ |
+| <a href="#"><img src="https://via.placeholder.com/120" width="120"/></a> <br> **CatchIt** | iOS App to track animals                                                                                   | SwiftUI • MVVM • CreateML • Accessibility • SwiftData                                |
+| <a href="#"><img src="https://via.placeholder.com/120" width="120"/></a> <br> **Altroo**  | Application designed for professional caregivers, built to efficiently organize and share care activities. | UIKit • CoreData • CloudKit • SwiftUI • Combine • MVVM-C • Factory • Facade • XCTest |
+| <a href="#"><img src="https://via.placeholder.com/120" width="120"/></a> <br> **WeatherApp**      | Weather forecast app consuming a public API | UIKit • REST API • Cocoapods               |
+| <a href="#"><img src="https://via.placeholder.com/120" width="120"/></a> <br> **IntoTheCauldron** | Mini-game built with SpriteKit              | SpriteKit                                  |
+| <a href="#"><img src="https://via.placeholder.com/120" width="120"/></a> <br> **WitchGame**       | AR game using RealityKit                    | RealityKit                                 |
 
 </div>
 
 ---
+
+## **Other Software Projects**
+
+> Here are some of the apps, experiments, and prototypes I've been working on.
+> *(Click any card to explore the repo.)*
+
+<div>
+
+| Project                                                                                                  | Description                               | Technologies                                  |
+| -------------------------------------------------------------------------------------------------------- | ----------------------------------------- | --------------------------------------------- |
+| <a href="#"><img src="https://via.placeholder.com/120" width="120"/></a> <br> **LTracer**                | Ray tracing / graphics rendering project  | C++ • CMake                                   |
+| <a href="#"><img src="https://via.placeholder.com/120" width="120"/></a> <br> **POO-GraphicalInterface** | Java GUI app with database integration    | Java • MySQL • NetBeans                       |
+| <a href="#"><img src="https://via.placeholder.com/120" width="120"/></a> <br> **dome_gesad**             | NLP-powered assistant for data extraction | Python • Django • Transformers • NLP • SQLite |
+| <a href="#"><img src="https://via.placeholder.com/120" width="120"/></a> <br> **arima_prediction**       | Time-series forecasting API               | FastAPI                                       |
+| <a href="#"><img src="https://via.placeholder.com/120" width="120"/></a> <br> **altroo-landing**         | Landing page for Altroo                   | TypeScript                                    |
+
+</div>
+
