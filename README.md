@@ -55,7 +55,7 @@ I love solving problems, building useful things, and learning from people who kn
   <tr>
     <td><a href="https://github.com/LayzaCarneiro/WeatherApp"><strong>Weather App</strong></a></td>
     <td>Weather forecast app using a public API</td>
-    <td> UIKit • API • Cocoapods</td>
+    <td> UIKit • API • Cocoapods • Alamofire</td>
   </tr>
 
   <tr>
@@ -76,5 +76,5 @@ I love solving problems, building useful things, and learning from people who kn
 > Here are some of the apps, experiments, and prototypes I've been working on.
 > 
 <div> 
-  <table width="100%"> <tr> <th align="left">Project</th> <th align="left">Description</th> <th align="left">Technologies</th> </tr> <tr> <td><a href="https://apps.apple.com/br/app/into-the-cauldron/id6745516421"><strong>Into The Cauldron</strong></a></td> <td>Potion-crafting mini-game with animated interactions</td> <td>SwiftUI • SpriteKit</td> </tr> <tr> <td><a href="https://github.com/LayzaCarneiro/SyscallLogger"><strong>LTracer</strong></a></td> <td>Linux tool for syscall tracing and logging</td> <td>C++ • CMake • Linux</td> </tr> <tr> <td><a href="https://github.com/LayzaCarneiro/POO-GraphicalInterface"><strong>Supermarket GUI</strong></a></td> <td>Desktop app with inventory and sales management</td> <td>Java • MySQL • NetBeans • OOP</td> </tr> <tr> <td><a href="https://github.com/LayzaCarneiro/ARIMA_Prediction"><strong>ARIMA Prediction</strong></a></td> <td>Time-series forecasting API built with ML</td> <td>Python • FastAPI • SwiftUI • ML</td> </tr> <tr> <td><a href="https://github.com/LayzaCarneiro/altroo-landing"><strong>Altroo Landing Page</strong></a></td> <td>Marketing website for the Altroo app</td> <td>Lovable • TypeScript • Vercel</td> </tr> </table> 
+  <table width="100%"> <tr> <th align="left">Project</th> <th align="left">Description</th> <th align="left">Technologies</th> </tr> <tr> <td><a href="https://apps.apple.com/br/app/into-the-cauldron/id6745516421"><strong>Into The Cauldron</strong></a></td> <td>Potion-crafting mini-game with animated interactions</td> <td>SwiftUI • SpriteKit</td> </tr> <tr> <td><a href="https://github.com/LayzaCarneiro/SyscallLogger"><strong>LTracer</strong></a></td> <td>Linux tool for syscall tracing and logging</td> <td>C++ • CMake • Linux</td> </tr> <tr> <td><a href="https://github.com/LayzaCarneiro/POO-GraphicalInterface"><strong>Supermarket GUI</strong></a></td> <td>Java GUI app with database integration</td> <td>Java • MySQL • NetBeans • OOP</td> </tr> <tr> <td><a href="https://github.com/LayzaCarneiro/ARIMA_Prediction"><strong>ARIMA Prediction</strong></a></td> <td>Time-series forecasting API built with ML</td> <td>Python • FastAPI • SwiftUI • ML</td> </tr> <tr> <td><a href="https://github.com/LayzaCarneiro/altroo-landing"><strong>Altroo Landing Page</strong></a></td> <td>Marketing website for the Altroo app</td> <td>Lovable • TypeScript • Vercel</td> </tr> </table> 
 </div>
