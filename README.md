@@ -8,6 +8,7 @@ I'm a volunteer in the UECE competitive programming study group [(**GEMP**)](htt
 **Want to build something together? You (🫵) can reach me here:**
 
 <a href="https://www.linkedin.com/in/layzacarneiro/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:layza.mrcarneiro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ---
 
@@ -24,17 +25,16 @@ I'm a volunteer in the UECE competitive programming study group [(**GEMP**)](htt
 ## **iOS & Swift Projects**
 
 > Here are some of the apps, experiments, and prototypes I've been working on.
-> *(Click any card to explore the repo.)*
 
 <div>
 
-| Project                                                                                           | Description                                 | Technologies                               |
-| ------------------------------------------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------ |
-| <a href="#"><img src="https://via.placeholder.com/120" width="120"/></a> <br> **CatchIt** | iOS App to track animals                                                                                   | SwiftUI • MVVM • CreateML • Accessibility • SwiftData                                |
-| <a href="#"><img src="https://via.placeholder.com/120" width="120"/></a> <br> **Altroo**  | Application designed for professional caregivers, built to efficiently organize and share care activities. | UIKit • CoreData • CloudKit • SwiftUI • Combine • MVVM-C • Factory • Facade • XCTest |
-| <a href="#"><img src="https://via.placeholder.com/120" width="120"/></a> <br> **WeatherApp**      | Weather forecast app consuming a public API | UIKit • REST API • Cocoapods               |
-| <a href="#"><img src="https://via.placeholder.com/120" width="120"/></a> <br> **IntoTheCauldron** | Mini-game built with SpriteKit              | SpriteKit                                  |
-| <a href="#"><img src="https://via.placeholder.com/120" width="120"/></a> <br> **WitchGame**       | AR game using RealityKit                    | RealityKit                                 |
+| Project                                                            | Description                                                           | Technologies                                                                         |
+| ------------------------------------------------------------------ | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| **[CatchIt](https://apps.apple.com/br/app/catch-it/id6504718179)** | iOS app that identifies animals instantly using on-device ML and helps users organize their wildlife observations | SwiftUI • MVVM • CreateML • Accessibility • SwiftData • AI |
+| **[Altroo](https://apps.apple.com/br/app/altroo/id6754249731) • [Source Code](https://github.com/izamontenegro/Altroo)** | App for professional caregivers to organize and share care activities | UIKit • CoreData • CloudKit • SwiftUI • Combine • MVVM-C • Factory • Facade • XCTest |
+| **[Weather App](https://github.com/LayzaCarneiro/WeatherApp)** | Weather forecast app consuming a public API | UIKit • API • Cocoapods |
+| **[Into The Cauldron](https://apps.apple.com/br/app/into-the-cauldron/id6745516421)** | A potion-crafting mini-game where you blend ingredients, handle quirky customers, and refine your recipes as a strange mystery gradually unfolds | SwiftUI • SpriteKit |
+| **[Witch Game - A VisionPro Game](https://github.com/LayzaCarneiro/WitchGame_VisionOS)** | Prototype built for Apple Vision Pro, combining 3D interactions, spatial design, and gesture-based mechanics| SwiftUI • RealityKit • 3D Models |
 
 </div>
 
@@ -43,17 +43,15 @@ I'm a volunteer in the UECE competitive programming study group [(**GEMP**)](htt
 ## **Other Software Projects**
 
 > Here are some of the apps, experiments, and prototypes I've been working on.
-> *(Click any card to explore the repo.)*
 
 <div>
 
-| Project                                                                                                  | Description                               | Technologies                                  |
-| -------------------------------------------------------------------------------------------------------- | ----------------------------------------- | --------------------------------------------- |
-| <a href="#"><img src="https://via.placeholder.com/120" width="120"/></a> <br> **LTracer**                | Ray tracing / graphics rendering project  | C++ • CMake                                   |
-| <a href="#"><img src="https://via.placeholder.com/120" width="120"/></a> <br> **POO-GraphicalInterface** | Java GUI app with database integration    | Java • MySQL • NetBeans                       |
-| <a href="#"><img src="https://via.placeholder.com/120" width="120"/></a> <br> **dome_gesad**             | NLP-powered assistant for data extraction | Python • Django • Transformers • NLP • SQLite |
-| <a href="#"><img src="https://via.placeholder.com/120" width="120"/></a> <br> **arima_prediction**       | Time-series forecasting API               | FastAPI                                       |
-| <a href="#"><img src="https://via.placeholder.com/120" width="120"/></a> <br> **altroo-landing**         | Landing page for Altroo                   | TypeScript                                    |
+| Project                         | Description                               | Technologies                                  |
+| ------------------------------- | ----------------------------------------- | --------------------------------------------- |
+| **[LTracer](https://github.com/LayzaCarneiro/SyscallLogger)** | System call logger for Linux  | C++ • CMake |
+| **[Supermarket Graphical Interface](https://github.com/LayzaCarneiro/POO-GraphicalInterface)** | Java GUI app with database integration | Java • MySQL • NetBeans • OOP |
+| **[DoME](https://github.com/LayzaCarneiro/dome_gesad)** | NLP-powered assistant for data extraction | Python • Django • Transformers • NLP • SQLite |
+| **[ARIMA Prediction](https://github.com/LayzaCarneiro/ARIMA_Prediction)** | Time-series forecasting API | Python • FastAPI • SwiftUI |
+| **[Altroo Landing Page](https://github.com/LayzaCarneiro/altroo-landing)** | Landing page for Altroo | Lovable • TypeScript • Vercel |
 
 </div>
-
