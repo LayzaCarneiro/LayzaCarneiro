@@ -1,13 +1,12 @@
 ## Hi, I'm Layza! 😄
 
+I'm a Computer Science student at [UECE](https://www.uece.br/), an iOS Developer at the [Apple Developer Academy – IFCE](https://www.developeracademy.ifce.edu.br/), and a member of [GESAD](https://gesaduece.com.br).
 
-**I am a computer science student at [UECE](https://www.uece.br/), an iOS Developer at the [Apple Developer Academy - IFCE](https://www.developeracademy.ifce.edu.br/) and a member of [GESAD](https://gesaduece.com.br)!** 
-
-I'm a volunteer in the UECE competitive programming study group [(**GEMP**)](https://linktr.ee/gemp_uece_?fbclid=PAZXh0bgNhZW0CMTEAAaYM2S1vqh0jCoFIdyW2sxp_HSvbdvborXEAcJ3g9Ib96PiNDJ8TxJ17LiY_aem_2tTLTCSF479s8A3GZgqaxw), I'm passionate about coding, I love learning from other people (specially about things I've never seen before) and I'm also somebody who really loves cats.
+I love solving problems, building useful things, and learning from people who know something I don’t (which is my favorite part of tech). I also volunteer at **GEMP**, UECE’s competitive programming group, and when I’m not coding… I’m with my cats. 🐱💛
 
 **Want to build something together? You (🫵) can reach me here:**
 
-<a href="https://www.linkedin.com/in/layzacarneiro/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/layzacarneiro/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:layza.mrcarneiro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ---
@@ -22,36 +21,60 @@ I'm a volunteer in the UECE competitive programming study group [(**GEMP**)](htt
 
 ---
 
-## **Featured Projects**
+## **🌟 Featured Projects**
 
 > Here are some of the apps, experiments, and prototypes I've been working on.
 
-<div>
+<div align="center">
 
-| Project                                                            | Description                                                           | Technologies                                                                         |
-| ------------------------------------------------------------------ | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| **[CatchIt](https://apps.apple.com/br/app/catch-it/id6504718179)** | iOS app that identifies animals instantly using on-device ML and helps users organize their wildlife observations | SwiftUI • MVVM • AI • CreateML • Accessibility • SwiftData |
-| **[Altroo](https://apps.apple.com/br/app/altroo/id6754249731) • [Source Code](https://github.com/izamontenegro/Altroo)** | App for professional caregivers to organize and share care activities | UIKit • CoreData • CloudKit • SwiftUI • Combine • MVVM-C • Factory • Facade • XCTest |
-| **[DoME](https://github.com/LayzaCarneiro/dome_gesad)** | NLP-powered assistant for data extraction | Python • Django • Transformers • NLP • SQLite |
-| **[Weather App](https://github.com/LayzaCarneiro/WeatherApp)** | Weather forecast app consuming a public API | UIKit • API • Cocoapods |
-| **[Witch Game](https://github.com/LayzaCarneiro/WitchGame_VisionOS)** | Prototype built for Apple Vision Pro, combining 3D interactions, spatial design, and gesture-based mechanics| SwiftUI • RealityKit • 3D Models |
+<table width="100%">
+  <tr>
+    <th align="left">Project</th>
+    <th align="left">Description</th>
+    <th align="left">Technologies</th>
+  </tr>
+
+  <tr>
+    <td><a href="https://apps.apple.com/br/app/catch-it/id6504718179"><strong>CatchIt</strong></a></td>
+    <td>iOS app that identifies animals using on-device ML and organizes wildlife observations</td>
+    <td> SwiftUI • MVVM • AI • CreateML • Accessibility • SwiftData</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/izamontenegro/Altroo"><strong>Altroo</strong></a></td>
+    <td>App for professional caregivers to organize and share care activities</td>
+    <td> UIKit • CoreData • CloudKit • SwiftUI • Combine • MVVM-C • XCTest</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/LayzaCarneiro/dome_gesad"><strong>DoME</strong></a></td>
+    <td>NLP-powered assistant for data extraction</td>
+    <td> Python • Django • Transformers • NLP • SQLite</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/LayzaCarneiro/WeatherApp"><strong>Weather App</strong></a></td>
+    <td>Weather forecast app using a public API</td>
+    <td> UIKit • API • Cocoapods</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/LayzaCarneiro/WitchGame_VisionOS"><strong>Witch Game</strong></a></td>
+    <td>Apple Vision Pro prototype with 3D interactions and gesture-based mechanics</td>
+    <td> SwiftUI • RealityKit • 3D Models</td>
+  </tr>
+
+</table>
 
 </div>
 
+
 ---
 
-## **Other Software Projects**
+## **💻 Other Software Projects**
 
 > Here are some of the apps, experiments, and prototypes I've been working on.
-
-<div>
-
-| Project                         | Description                               | Technologies                                  |
-| ------------------------------- | ----------------------------------------- | --------------------------------------------- |
-| **[Into The Cauldron](https://apps.apple.com/br/app/into-the-cauldron/id6745516421)** | A potion-crafting mini-game | SwiftUI • SpriteKit |
-| **[LTracer](https://github.com/LayzaCarneiro/SyscallLogger)** | System call logger for Linux  | C++ • CMake • Linux |
-| **[Supermarket Graphical Interface](https://github.com/LayzaCarneiro/POO-GraphicalInterface)** | Java GUI app with database integration | Java • MySQL • NetBeans • OOP |
-| **[ARIMA Prediction](https://github.com/LayzaCarneiro/ARIMA_Prediction)** | Time-series forecasting API | Python • FastAPI • SwiftUI • ML |
-| **[Altroo Landing Page](https://github.com/LayzaCarneiro/altroo-landing)** | Landing page for Altroo | Lovable • TypeScript • Vercel |
-
+> 
+<div> 
+  <table width="100%"> <tr> <th align="left">Project</th> <th align="left">Description</th> <th align="left">Technologies</th> </tr> <tr> <td><a href="https://apps.apple.com/br/app/into-the-cauldron/id6745516421"><strong>Into The Cauldron</strong></a></td> <td>Potion-crafting mini-game with animated interactions</td> <td>SwiftUI • SpriteKit</td> </tr> <tr> <td><a href="https://github.com/LayzaCarneiro/SyscallLogger"><strong>LTracer</strong></a></td> <td>Linux tool for syscall tracing and logging</td> <td>C++ • CMake • Linux</td> </tr> <tr> <td><a href="https://github.com/LayzaCarneiro/POO-GraphicalInterface"><strong>Supermarket GUI</strong></a></td> <td>Desktop app with inventory and sales management</td> <td>Java • MySQL • NetBeans • OOP</td> </tr> <tr> <td><a href="https://github.com/LayzaCarneiro/ARIMA_Prediction"><strong>ARIMA Prediction</strong></a></td> <td>Time-series forecasting API built with ML</td> <td>Python • FastAPI • SwiftUI • ML</td> </tr> <tr> <td><a href="https://github.com/LayzaCarneiro/altroo-landing"><strong>Altroo Landing Page</strong></a></td> <td>Marketing website for the Altroo app</td> <td>Lovable • TypeScript • Vercel</td> </tr> </table> 
 </div>
