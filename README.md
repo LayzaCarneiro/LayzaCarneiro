@@ -35,15 +35,15 @@ I love solving problems, building useful things, and learning from people who kn
   </tr>
 
   <tr>
+    <td><a href="https://github.com/izamontenegro/Altroo"><strong>Altroo</strong></a></td>
+    <td>App for professional caregivers to organize and share care activities</td>
+    <td> UIKit • CoreData • CloudKit • SwiftUI • Combine • MVVM-C • XCTest • Factory • Facade • Fastlane • GithubActions</td>
+  </tr>
+  
+  <tr>
     <td><a href="https://apps.apple.com/br/app/catch-it/id6504718179"><strong>CatchIt</strong></a></td>
     <td>iOS app that identifies animals using on-device ML and organizes wildlife observations</td>
     <td> SwiftUI • MVVM • AI • CreateML • Accessibility • SwiftData</td>
-  </tr>
-
-  <tr>
-    <td><a href="https://github.com/izamontenegro/Altroo"><strong>Altroo</strong></a></td>
-    <td>App for professional caregivers to organize and share care activities</td>
-    <td> UIKit • CoreData • CloudKit • SwiftUI • Combine • MVVM-C • XCTest</td>
   </tr>
 
   <tr>
@@ -76,5 +76,5 @@ I love solving problems, building useful things, and learning from people who kn
 > Here are some of the apps, experiments, and prototypes I've been working on.
 > 
 <div> 
-  <table width="100%"> <tr> <th align="left">Project</th> <th align="left">Description</th> <th align="left">Technologies</th> </tr> <tr> <td><a href="https://apps.apple.com/br/app/into-the-cauldron/id6745516421"><strong>Into The Cauldron</strong></a></td> <td>Potion-crafting mini-game with animated interactions</td> <td>SwiftUI • SpriteKit</td> </tr> <tr> <td><a href="https://github.com/LayzaCarneiro/SyscallLogger"><strong>LTracer</strong></a></td> <td>Linux tool for syscall tracing and logging</td> <td>C++ • CMake • Linux</td> </tr> <tr> <td><a href="https://github.com/LayzaCarneiro/POO-GraphicalInterface"><strong>Supermarket GUI</strong></a></td> <td>Java GUI app with database integration</td> <td>Java • MySQL • NetBeans • OOP</td> </tr> <tr> <td><a href="https://github.com/LayzaCarneiro/ARIMA_Prediction"><strong>ARIMA Prediction</strong></a></td> <td>Time-series forecasting API built with ML</td> <td>Python • FastAPI • SwiftUI • ML</td> </tr> <tr> <td><a href="https://github.com/LayzaCarneiro/altroo-landing"><strong>Altroo Landing Page</strong></a></td> <td>Marketing website for the Altroo app</td> <td>Lovable • TypeScript • Vercel</td> </tr> </table> 
+  <table width="100%"> <tr> <th align="left">Project</th> <th align="left">Description</th> <th align="left">Technologies</th> </tr> <tr> <td><a href="https://apps.apple.com/br/app/into-the-cauldron/id6745516421"><strong>Into The Cauldron</strong></a></td> <td>Potion-crafting mini-game with animated interactions</td> <td>SwiftUI • SpriteKit • GameKit</td> </tr> <tr> <td><a href="https://github.com/LayzaCarneiro/SyscallLogger"><strong>LTracer</strong></a></td> <td>Linux tool for syscall tracing and logging</td> <td>C++ • CMake • Linux</td> </tr> <tr> <td><a href="https://github.com/LayzaCarneiro/POO-GraphicalInterface"><strong>Supermarket GUI</strong></a></td> <td>Java GUI app with database integration</td> <td>Java • MySQL • NetBeans • OOP</td> </tr> <tr> <td><a href="https://github.com/LayzaCarneiro/ARIMA_Prediction"><strong>ARIMA Prediction</strong></a></td> <td>Time-series forecasting API built with ML</td> <td>Python • FastAPI • SwiftUI • ML</td> </tr> <tr> <td><a href="https://github.com/LayzaCarneiro/altroo-landing"><strong>Altroo Landing Page</strong></a></td> <td>Marketing website for the Altroo app</td> <td>Lovable • TypeScript • Vercel</td> </tr> </table> 
 </div>
