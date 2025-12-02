@@ -61,7 +61,7 @@ I love solving problems, building useful things, and learning from people who kn
   <tr>
     <td><a href="https://github.com/LayzaCarneiro/WitchGame_VisionOS"><strong>Witch Game</strong></a></td>
     <td>Apple Vision Pro prototype with 3D interactions and gesture-based mechanics</td>
-    <td> SwiftUI • RealityKit • 3D Models</td>
+    <td> SwiftUI • Reality Composer Pro • 3D Models</td>
   </tr>
 
 </table>
