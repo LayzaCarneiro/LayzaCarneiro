@@ -1,6 +1,6 @@
 ## Hi, I'm Layza! 😄
 
-I'm a Computer Science student at [UECE](https://www.uece.br/), an iOS Developer at the [Apple Developer Academy – IFCE](https://www.developeracademy.ifce.edu.br), and a member of [GESAD](https://gesaduece.com.br).
+I'm a Computer Science student at [UECE](https://www.uece.br/), an iOS Developer at the [Apple Developer Academy – IFCE](https://developeracademy.ifce.edu.br), and a member of [GESAD](https://gesaduece.com.br).
 
 I love solving problems, building useful things, and learning from people who know something I don’t (which is my favorite part of tech). I also volunteer at **GEMP**, UECE’s competitive programming group, and when I’m not coding… I’m with my cats. 🐱💛
 
